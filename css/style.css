@@ -7,12 +7,15 @@
 .title1 {
     color: #282828;
     font-size: 12px;
+    text-align: center;
 }
 .title2 {
     color: #282828;
     font-size: 54px;
+    text-align: center;
 }
 .paragraph {
     color: #5F6980;
     font-size: 20px;
+    text-align: center;
 }
