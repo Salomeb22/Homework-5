@@ -1,20 +1,22 @@
 /* main styles */
 .sec-div1 {
-    display: flex;
-    height: 178px;
-    justify-content: center;
+    width: 760px;
+    margin: 0 auto;
 }
 .title1 {
+    width: 100%;
     color: #282828;
     font-size: 12px;
     text-align: center;
 }
 .title2 {
+    width: 100%;
     color: #282828;
     font-size: 54px;
     text-align: center;
 }
 .paragraph {
+    width: 100%;
     color: #5F6980;
     font-size: 20px;
     text-align: center;
