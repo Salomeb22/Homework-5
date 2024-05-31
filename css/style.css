@@ -48,6 +48,7 @@
     font-style: normal;
     font-variation-settings: "slnt" 0;
     font-size: 18px;
+    margin-bottom: 4px;
 }
 .title4 {
     color: #3E3E59;
@@ -57,6 +58,7 @@
     font-style: normal;
     font-variation-settings:"slnt" 0;
     font-size: 14px;
+    margin-bottom: 8px;
 }
 .text {
     color: #5F6980;
@@ -66,4 +68,12 @@
     font-style: normal;
     font-variation-settings:"slnt" 0;
     font-size: 14px;
+}
+.icons {
+    display: flex;
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 100px;
+    margin-right: 16px;
 }
